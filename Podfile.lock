@@ -1,0 +1,24 @@
+PODS:
+  - JSONModel (1.2.0)
+  - MKNetworkKit (0.87):
+    - Reachability (~> 3.1.0)
+  - Reachability (3.1.1)
+  - SDWebImage (3.7.5):
+    - SDWebImage/Core (= 3.7.5)
+  - SDWebImage/Core (3.7.5)
+  - WebViewJavascriptBridge (5.0.5)
+
+DEPENDENCIES:
+  - JSONModel
+  - MKNetworkKit
+  - SDWebImage
+  - WebViewJavascriptBridge (~> 5.0)
+
+SPEC CHECKSUMS:
+  JSONModel: 12523685c4b623553ccf844bbbf7007624317b2c
+  MKNetworkKit: 60ad3c83b62183e40ba75ce772c9427c25b520de
+  Reachability: dd9aa4fb6667b9f787690a74f53cb7634ce99893
+  SDWebImage: 69c6303e3348fba97e03f65d65d4fbc26740f461
+  WebViewJavascriptBridge: a4d502315f1b8d9a51cd6a9174147ed567ec3bc5
+
+COCOAPODS: 0.39.0
